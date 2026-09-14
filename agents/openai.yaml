@@ -1,0 +1,4 @@
+interface:
+  display_name: "Citations based on argument"
+  short_description: "兼容现有检索技能，按论点查找 WoS 或谷歌学术权威及最新文献"
+  default_prompt: "使用 $citations-based-on-argument 根据我的论点检索 WoS 或 Google 学术中的领域权威和最新文献，不限期刊系列，摘要或正文相关均可，注明证据位置与支持程度。"
